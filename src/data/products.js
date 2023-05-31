@@ -11,7 +11,7 @@ const products = [
         name: "หูฟัง",
         image: "assets/product2.jpg",
         price: 1500,
-        quantity: 1
+        quantity: 3
     },
     {
         id: 3,
